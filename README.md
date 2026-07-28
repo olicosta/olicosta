@@ -18,7 +18,7 @@
 
 - **E-mail:** maciel.o.costa@hotmail.com
 - **LinkedIn:** [Perfil LinkedIn](https://linkedin.com/in/seuPerfil)
-- **Portfólio:** [seusite.com](https://seusite.com)
+
 
 ---
 
